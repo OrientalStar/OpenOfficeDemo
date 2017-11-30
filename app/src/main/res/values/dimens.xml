@@ -1,0 +1,53 @@
+<resources>
+
+    <!-- sp 字体的大小 -->
+    <dimen name="sp_10">10sp</dimen>
+    <dimen name="sp_12">12sp</dimen>
+    <dimen name="sp_14">14sp</dimen>
+    <dimen name="sp_16">16sp</dimen>
+    <dimen name="sp_18">18sp</dimen>
+    <dimen name="sp_20">20sp</dimen>
+    <dimen name="sp_22">22sp</dimen>
+    <dimen name="sp_24">24sp</dimen>
+
+    <!-- dp 控件的大小，左上右下的间距 -->
+    <dimen name="dp_1">1dp</dimen>
+    <dimen name="dp_2">2dp</dimen>
+    <dimen name="dp_3">3dp</dimen>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_5">5dp</dimen>
+    <dimen name="dp_6">6dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_12">12dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="dp_30">30dp</dimen>
+    <dimen name="dp_40">40dp</dimen>
+    <dimen name="dp_48">48dp</dimen>
+    <dimen name="dp_50">50dp</dimen>
+    <dimen name="dp_60">60dp</dimen>
+    <dimen name="dp_70">70dp</dimen>
+    <dimen name="dp_80">80dp</dimen>
+    <dimen name="dp_100">100dp</dimen>
+
+    <!-- 圆角 -->
+    <dimen name="radius">5dp</dimen>
+    <!-- ****************全局统一字体大小 ************ -->
+    <!-- 全局统一大号字体 -->
+    <dimen name="font_size_big">18sp</dimen>
+    <!-- 全局统一中号字体 -->
+    <dimen name="font_size_middle">16sp</dimen>
+    <!-- 全局统一正文号字体 -->
+    <dimen name="font_size_normal">14sp</dimen>
+    <!-- 全局统一小号字体 -->
+    <dimen name="font_size_little">12sp</dimen>
+    <!-- 全局统一最小号字体 -->
+    <dimen name="font_size_least">10sp</dimen>
+
+    <!-- 线条 -->
+    <dimen name="line_view">0.8dp</dimen>
+    <dimen name="line_view_bold">5dp</dimen>
+
+
+</resources>
